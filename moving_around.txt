@@ -5,7 +5,6 @@
     5  git config.
     6  git
     7  config
-    8  sjdflkjafkl;ej
     9  git
    10  git
    11  git config user.name
@@ -221,6 +220,7 @@
   106  clear
   107  history
   108  history | less
+  Pipe allows to commands at once
   109  pwd
   110  clear
   111  history > moving_forward.txt
